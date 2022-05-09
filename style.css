@@ -13,8 +13,7 @@ h1 {
   font-weight: bold;
   color: black;
   font-size: 6rem;
-  letter-spacing: 2px;
-  /* font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; */
+  letter-spacing: 2px;  
   font-stretch: 150%;
   padding-left: 0px;
 }
@@ -55,12 +54,3 @@ h1 {
   left: -10;
   font-size: medium;
 }
-/* .card-img-top:before {
-  content: "25 12 34";
-  width: 25%;
-  background-color: maroon;
-  color: white;
-  padding-left: 1rem;
-  margin-top: 15px;
-  margin-bottom: 10px;
-} */
